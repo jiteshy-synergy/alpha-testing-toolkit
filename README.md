@@ -1,4 +1,4 @@
-# Announcements plugin for Backstage (Fork)
+# Announcements plugin for Backstage
 
 ## Overview
 
