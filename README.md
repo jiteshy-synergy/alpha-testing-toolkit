@@ -40,8 +40,8 @@ Follow these steps to set up and use **Alpha Testing Toolkit**:
    cp .env.example .env
    # Update .env with your configuration
    ```
-###Usage
-####Running Tests
+### Usage
+#### Running Tests
 1. Define your test cases in the test_cases/ directory.
 2. Execute tests using the CLI:
 ```
