@@ -32,3 +32,18 @@ Follow these steps to set up and use **Alpha Testing Toolkit**:
    git clone https://github.com/your-org/alpha-testing-toolkit.git
    cd alpha-testing-toolkit```
 2. Install dependencies:
+   ```
+   pip install -r requirements.txt
+   ```
+3. Set up the environment:
+   ```
+   cp .env.example .env
+   # Update .env with your configuration
+   ```
+###Usage
+####Running Tests
+1. Define your test cases in the test_cases/ directory.
+2. Execute tests using the CLI:
+```
+python run_tests.py
+```
