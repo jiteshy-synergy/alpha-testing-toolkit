@@ -1,6 +1,6 @@
 # Contributing Guidelines
 
-`backstage-plugin-announcements` is [MIT licensed](LICENSE.md) and accepts contributions via
+`alpha-testing-toolkit` accepts contributions via
 GitHub pull requests. This document outlines some of the conventions on
 the development workflow, commit message formatting, contact points, and other
 resources to make it easier to get your contribution accepted.
@@ -11,7 +11,7 @@ Contributions are welcome, and they are greatly appreciated! Every little bit he
 
 The official support channels, for both users and contributors, are:
 
-- GitHub [issues](https://github.com/procore-oss/backstage-plugin-announcements/issues)
+- GitHub [issues](https://github.com/jiteshy-synergy/alpha-testing-toolkit/issues)
 
 ## How to Contribute
 
@@ -24,9 +24,9 @@ Pull Requests (PRs) are the main and exclusive way to contribute to the project.
 [Fork][fork], then clone the repository:
 
 ```bash
-git clone git@github.com:your_github_username/backstage-plugin-announcements.git
-cd backstage-plugin-announcements
-git remote add upstream https://github.com/procore-oss/backstage-plugin-announcements.git
+git clone https://github.com/jiteshy-synergy/alpha-testing-toolkit.git
+cd alpha-testing-toolkit
+git remote add upstream https://github.com/jiteshy-synergy/alpha-testing-toolkit.git
 git fetch upstream
 ```
 
